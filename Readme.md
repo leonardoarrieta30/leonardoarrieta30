@@ -1,5 +1,5 @@
 <h1 align="center">HI 👋, I'M LEONARDO ARRIETA</h1>
-<h3 align="center">I'M SOFTWARE DEVELOPER AND 21 YEARS OLD</h3>
+<h3 align="center">I'M SOFTWARE DEVELOPER AND 22 YEARS OLD</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

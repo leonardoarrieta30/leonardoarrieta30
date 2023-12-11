@@ -1,5 +1,7 @@
+# Leonardo Santos Arrieta Huaman
+
 # 💫 About Me:
-🔭 I'm currently studying at the UPC<br>👯 I'm looking to collaborate in Development Full Stack<br>🌱 I'm currently learning php
+🍕 22 years old<br> ⚡ Passionate about technology<br> 🔭 I'm currently studying at the UPC<br>👯 I'm looking to collaborate in Development Full Stack<br>🌱 I'm currently learning php 
 
 
 ## 🌐 Socials:
